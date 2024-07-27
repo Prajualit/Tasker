@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #ffe3c3;
+}
+@media screen and (max-width: 768px) {
+    body{
+        background-color: #e3965c;
+    }
+}
