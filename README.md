@@ -1,8 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tasker - Task Manager App
 
-Currently, two official plugins are available:
+Tasker is a task management application built using modern web technologies like Vite.js. It simplifies the process of organizing and tracking tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add, edit, and delete tasks
+- User-friendly and responsive interface
+- Built for speed and performance with Vite.js
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Prajualit/Tasker.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Tasker
+   ```
+
+3. Install the dependencies:
+   ```
+   npm install
+   ```
+
+4. Start the development server:
+   ```
+   npm run dev
+   ```
+
+Visit the app at `http://localhost:3000` in your browser.
+
+## Technologies Used
+- Vite.js
+- React
+- Tailwind CSS
+
+## License
+This project is licensed under the MIT License.
